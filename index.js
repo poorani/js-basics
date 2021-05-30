@@ -45,7 +45,7 @@ console.log(typeof[coloursArray]); // array is an object type
 
 function greet(name,lastName)
 {
-    console.log("hello " + name+" " +lastName);
+    console.log("hello " + name+"  " +lastName);
 }
 
 greet("john");

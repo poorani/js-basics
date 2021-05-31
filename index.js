@@ -17,7 +17,7 @@ console.log(sampleVar,strExample,isBoolean);
 
 //objects
 let nullExample2 = null; // null literal , clear the value of a variable , also an object variable
-let person = {};
+let person = {}; //object literal
 person={name:"john",
         age:40};
 console.log(person);
